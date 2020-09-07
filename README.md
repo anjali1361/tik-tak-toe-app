@@ -1,2 +1,2 @@
 # tik-tak-toe-app
-Simple Game App With Wonderful Animation Addedd.
+Simple Game App With Wonderful Animation Added.
